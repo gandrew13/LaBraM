@@ -92,3 +92,6 @@ year={2024},
 url={https://openreview.net/forum?id=QzTpTRVtrP}
 }
 ```
+
+## Personal statement
+If you would like to use my fork of the LaBraM in any public or commercial way, please contact me at andrei.galbenus13@gmail.com. Also make sure you comply with the rules of the original repo. All rights reserved.
